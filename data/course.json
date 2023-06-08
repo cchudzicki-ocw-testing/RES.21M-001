@@ -1,0 +1,46 @@
+{
+  "term": "January IAP",
+  "year": "2123",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "heavy-metal-101"
+  },
+  "course_image": {
+    "content": "",
+    "website": "heavy-metal-101"
+  },
+  "course_title": "Heavy Metal 101",
+  "course_description": "This is not a metallurgy class! Learn everything you ever wanted to know about Heavy Metal music. Topics include musicology, culture, music theory, songwriting tropes, harsh vocal techniques, history, tech-based instruments, and how the genre tackles some of today's biggest sociopolitical challenges. You\u2019ll find out why metal bands exist in every country on Earth, and why you're probably already a metalhead without even knowing it.",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21M-001",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "heavy-metal-101"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Demonstration Audio",
+    "Music"
+  ],
+  "site_uid": "13d8397c-6156-4d53-ae11-2715398be737",
+  "site_short_id": "RES.21M-001"
+}
