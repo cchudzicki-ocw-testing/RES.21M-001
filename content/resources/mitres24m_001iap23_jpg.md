@@ -13,7 +13,7 @@ image_metadata:
     hand with the drums and guitarist behind, both of her arms are raised revealing
     the studded batwing sleeves of her leather jacket.
 learning_resource_types: []
-license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+license: https://creativecommons.org/licenses/by/4.0/
 resourcetype: Image
 title: mitres24m_001iap23.jpg
 uid: 4bbc0794-5d3a-4051-920c-74f4639839a4
