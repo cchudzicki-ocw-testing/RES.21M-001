@@ -12,9 +12,7 @@ image_metadata:
   image-alt: Female metal singer standing center stage holding a microphone in one
     hand with the drums and guitarist behind, both of her arms are raised revealing
     the studded batwing sleeves of her leather jacket.
-learning_resource_types:
-- Lecture Videos
-- Demonstration Audio
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: mitres24m_001iap23.jpg
